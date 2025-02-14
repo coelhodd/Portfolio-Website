@@ -30,7 +30,8 @@ team:
     subtext: Se você está em busca de soluções eficientes e inovadoras na área de programação e computação, entre em contato! Tenho o conhecimento necessário para atender às suas necessidades e proporcionar resultados de alta qualidade. Vamos trabalhar juntos para transformar suas ideias em realidade.
     people:
       - name: "Davi Coelho"
-        role: "Engenheiro de Software & Cientista de Dados"
+        role: "Engenheiro de Software & <br> Cientista de Dados"
+        description: "Sou naturalmente interessado em ciências exatas e naturais, tendo até cursado alguns períodos de Física uns anos atrás. Meu objetivo é ajudar pessoas a solucionar problemas através da ciência e tecnologia."
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -44,20 +45,5 @@ contact:
     title: "Entre em contato"
     text: 
     section: contact
-    
-footer:
-    legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
-
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
