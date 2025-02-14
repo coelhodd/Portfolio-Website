@@ -1,18 +1,12 @@
 nav:
-  - title: "Services"
+  - title: "Habilidades"
     section: services
 
-  - title: "Portfolio"
+  - title: "Portfólio"
     section: portfolio
-    
-  - title: "About"
-    section: timeline
 
-  - title: "Team"
+  - title: "Sobre Mim"
     section: team
 
-  - title: "Contact"
+  - title: "Contato"
     section: contact
-
-  - title: "External"
-    url: https://raviriley.github.io
