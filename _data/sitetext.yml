@@ -34,12 +34,12 @@ team:
         description: "Sou naturalmente interessado em ciências exatas e naturais, tendo até cursado alguns períodos de Física uns anos atrás. Meu objetivo é ajudar pessoas a solucionar problemas através da ciência e tecnologia."
         image: assets/img/team/me.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://github.com/coelhodd
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/davi-coelho-b4003234b/
             icon: fab fa-linkedin-in
+          - url: https://wa.me/5522999433134
+            icon: fab fa-whatsapp
           
 contact:
     title: "Entre em contato"
