@@ -32,7 +32,7 @@ team:
       - name: "Davi Coelho"
         role: "Engenheiro de Software & <br> Cientista de Dados"
         description: "Sou naturalmente interessado em ciências exatas e naturais, tendo até cursado alguns períodos de Física uns anos atrás. Meu objetivo é ajudar pessoas a solucionar problemas através da ciência e tecnologia."
-        image: assets/img/team/2.jpg
+        image: assets/img/team/me.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
