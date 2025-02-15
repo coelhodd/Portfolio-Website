@@ -28,6 +28,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://coelhowebsite.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  coelhodd
 
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
 # Build settings
 # theme: "jekyll-agency"
 plugins:
